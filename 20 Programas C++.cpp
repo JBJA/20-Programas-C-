@@ -1,3 +1,6 @@
+// Josué Benjamín Juárez Arevalo
+// Carnet: 1290-20-1186
+// Programacion I
 #include<iostream>
 #include<stdio.h>
 #include<string.h>
